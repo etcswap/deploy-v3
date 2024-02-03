@@ -469,7 +469,7 @@
 
 "@uniswap/v3-staker@git+https://github.com/etcswap/v3-staker.git#etcswap":
   version "1.0.2"
-  resolved "git+https://github.com/etcswap/v3-staker.git#a003aac65143c3e5ed34eea0a358ba20008d5225"
+  resolved "git+https://github.com/etcswap/v3-staker.git#615e09790d2ec9f2bc079756eb888a2bd2078be6"
   dependencies:
     "@openzeppelin/contracts" "3.4.1-solc-0.7-2"
     "@uniswap/v3-core" "git+https://github.com/etcswap/v3-core.git#etcswap"
