@@ -459,7 +459,7 @@
 
 "@uniswap/v3-periphery@git+https://github.com/etcswap/v3-periphery.git#etcswap":
   version "1.4.4"
-  resolved "git+https://github.com/etcswap/v3-periphery.git#1ca1928ee88d8936135060617defebce6d3f006d"
+  resolved "git+https://github.com/etcswap/v3-periphery.git#b6ce8ef8a553597d89b700a604096cac1d0c9485"
   dependencies:
     "@openzeppelin/contracts" "3.4.2-solc-0.7"
     "@uniswap/lib" "^4.0.1-alpha"
